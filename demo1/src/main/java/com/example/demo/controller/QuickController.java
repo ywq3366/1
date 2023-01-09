@@ -10,7 +10,7 @@ public class QuickController {
     @RequestMapping("/quick")
     @ResponseBody
     public String quick(){
-        return "nihao springboot 开始运行";
+        return "nihao springboot 运行";
     }
 
 }
